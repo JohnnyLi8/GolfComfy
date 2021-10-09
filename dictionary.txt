@@ -1,0 +1,8 @@
+tee
+dd
+int
+scorecard
+oct
+init
+bool
+haha
