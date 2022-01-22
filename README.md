@@ -1,4 +1,4 @@
-# GolfComfy
+# GolfComfy - 2018
 A tee time management software for golf courses
 
 All modules are in the "src" folder
